@@ -1,5 +1,5 @@
 # Atm
-
+This is the program about the ATM machine
 ### User Program ###
 class user:
     global name
